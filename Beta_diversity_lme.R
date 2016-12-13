@@ -1,5 +1,5 @@
-#We now consider if there is any change in beta-diversity over the course of prengnacy, 
-#where beta-diversity is defined here as the average distance between subjects (at that gestational time).
+#We now consider if there is any change in beta-diversity over the course of FMT 
+#where beta-diversity is defined here as the average distance between FMT recipients.
 divdfs <- list()
 ANSIZE=2   # Plot visual parameter
 PVALLEN=5
